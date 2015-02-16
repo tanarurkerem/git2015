@@ -1,4 +1,4 @@
-a ez az egyik ez a másik
+a ez az egyik ez a másik 4 pixel
 hozzáadok egy sort id beírom
 meg mégegyet
 és
