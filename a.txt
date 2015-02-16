@@ -1,5 +1,5 @@
 a ez az egyik ez a másik
-hozzáadok egy sort
+hozzáadok egy sort id beírom
 meg mégegyet
 és
 iszok egy sört
