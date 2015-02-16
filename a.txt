@@ -1,6 +1,7 @@
-a ez az egyik ez a másik
-hozzáadok egy sort
+a ez az egyik ez a másik 3 pixel
+hozzáadok egy sort id beírom
 meg mégegyet
 és
 iszok egy sört
 teszt
+alma
